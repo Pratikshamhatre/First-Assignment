@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+
+td.mat-cell:first-of-type,td.mat-footer-cell:first-of-type,th.mat-header-cell:first-of-type
+{
+    padding-top: 0px;
+}
+
+.fill-span 
+{
+    float: right;
+}
+app-tablecomp
+{
+    width: 95%;
+}
+
+*
+{
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+app-form
+{
+    float:left;
+    width: 100%;
+}

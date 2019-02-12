@@ -1,0 +1,62 @@
+table
+{
+    width: 80%;
+
+}
+
+
+
+input
+{
+    height: 30px;
+    margin-right: 10px;
+    border: 1px solid black;
+    width: 300px;
+
+}
+button
+{
+    margin-right: 15px;
+    font-weight: bold;
+    background-color:lightgrey;
+}
+
+app-form
+{
+    width: 100%;
+}
+
+.icnn
+{
+    position: absolute;
+    
+    
+}
+#size
+{
+    font-size:35px;
+    vertical-align: middle;
+}
+  
+.template
+{
+    margin-right: 50px;
+}
+
+
+.mat-stroked-button
+{
+    border: 1px solid black;
+    
+}
+
+
+.submit
+{
+
+    color: blue;
+}
+
+.space{
+    margin-bottom: 30px;
+}
